@@ -2,12 +2,12 @@
   <a href="https://chrome.google.com/webstore/detail/leaf-browser-alpha/nefehiekhccmedmdoilmhikhdiiijkbe"><img src="docs/webstore.png" /></a>
 </p>
 
-# Leaf Browser Alpha
+# Grasso Browser Alpha
 
 This project is an **experimental** browser UI that runs as a Google Chrome app
 and uses webview tags. It's in its **very early** stages at the moment.
 
-![Leaf Browser Screenshot](screenshot.png)
+![Grasso Browser Screenshot](screenshot.png)
 
 ## Key Features
 
