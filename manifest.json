@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
-  "name": "Leaf Browser Alpha",
-  "version": "0.1.2",
-  "author": "Sam Lanning <sam@samlanning.com>",
+  "manifest_version": 1,
+  "name": "Grasso Browser Alpha",
+  "version": "0.0.2",
+  "author": "Caden Finkelstein <cadenmf@gmail.com>",
 
   "description": "An experimental browser that runs in chrome.",
   "icons": {
